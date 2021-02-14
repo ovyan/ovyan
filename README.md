@@ -2,6 +2,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ovyan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+<div>
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ovyan&count_private=true&include_all_commits=true&theme=onedark" alt="ovyan" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovyan&layout=compact&theme=onedark&langs_count=15" />
+</div>
+
+
 <!--
 **ovyan/ovyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
