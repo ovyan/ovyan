@@ -4,8 +4,8 @@
 
 
 <div>
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ovyan&count_private=true&include_all_commits=true&theme=onedark" alt="ovyan" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovyan&layout=compact&theme=onedark&langs_count=15" />
+<img height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=ovyan&count_private=true&include_all_commits=true&theme=onedark" alt="ovyan" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovyan&layout=compact&theme=onedark&langs_count=15" />
 </div>
 
 
