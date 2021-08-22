@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ovyan&title_color=fff&text_color=fff)
+![trophy](https://github-profile-trophy.vercel.app/?username=ovyan&title_color=fff&text_color=fff&margin-w=15&margin-h=15)
 
 
 <div>
