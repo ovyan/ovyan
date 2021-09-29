@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=ovyan&color=blueviolet)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=ovyan&title_color=fff&text_color=fff&margin-w=15&margin-h=15)
 
 
